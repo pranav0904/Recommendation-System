@@ -1,2 +1,2 @@
 # Recommendation System
- Recommendations System
+Recommendations System based on Pearson Correlation
