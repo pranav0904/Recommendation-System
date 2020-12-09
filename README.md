@@ -1,4 +1,5 @@
 # Recommendation System
 ### Recommendations System based on Collaborative Filtering 
 
-`Method: Pearson Correlation`
+__Algorithm:__
+__`Pearson Correlation`__
